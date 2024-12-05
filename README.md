@@ -52,7 +52,7 @@ The goal of Tier 1 is to gain a robust foundational knowledge of web development
 | Activity                                                                                                                                                                     | Status | Evidence |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
 | [Course: HTML & CSS Crash Course](https://v2.scrimba.com/html-css-crash-course-c02l)                                                                                         |   Completed     |          |
-| [ Course: Learn Flexbox](https://v2.scrimba.com/learn-flexbox-c0k)                                                                                                           |        |          |
+| [ Course: Learn Flexbox](https://v2.scrimba.com/learn-flexbox-c0k)                                                                                                           | Completed        |          |
 | [ Course: Learn CSS Grid](https://v2.scrimba.com/learn-css-grid-c02k)                                                                                                        |        |          |
 | [Project: Profile card component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)                                                                 |        |          |
 | [Project: Social links profile](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)                                                                    |        |          |
